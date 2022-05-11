@@ -28,7 +28,7 @@ nav > ul {
   top: 0; 
   width: 100%;
 
-  background-color: rgb(118, 152, 78, 77%);
+  background-color: #76984ec4;
   height: 30px;
 }
 
@@ -54,12 +54,12 @@ header {
 
 main > header > h1 {
   text-align: center;
-  color: white;
+  color: #ffffff;
   font-size: 4rem;
 }
 
 .menu-items {
-  background-color: cadetblue;
+  background-color: #ffffff;
   margin: 5rem 4rem;
   column-count: 2;
   column-gap: 20px;
